@@ -1783,7 +1783,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>duo-labs/cloudmapper</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">CloudMapper helps you analyze your Amazon Web Services (AWS) environments.</div>
@@ -1836,7 +1836,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>cartography-cncf/cartography</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Cartography is a Python tool that pulls infrastructure assets and their relationships into a Neo4j graph database.</div>
@@ -1904,7 +1904,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 18 Oct 2026, 12:29:36 (timezone Europe/Madrid) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 18 Oct 2026, 17:27:30 (timezone Europe/Madrid) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
